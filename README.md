@@ -33,4 +33,4 @@ Past contests with a similar number of entrants showed that you need about 8-10 
 
 Here is what the output looks like!
 
-![alt text](https://github.com/kweithers/EliminatorChallenge/blob/master/Output.png)
+![alt text](https://github.com/kweithers/EliminatorChallenge/blob/master/Output.PNG)
